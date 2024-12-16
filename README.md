@@ -1,4 +1,4 @@
-# Analiza timpului și dimensiunii de dezvoltare după compilarea unei aplicații web frontend pentru dezvoltare clasică vs stiluri arhitecturale
+# Analiza timpului de dezvoltare și dimensiunii fisierelor după compilarea unei aplicații web frontend pentru dezvoltare clasică vs stiluri arhitecturale
 
 
 ## 1. Introducere:
